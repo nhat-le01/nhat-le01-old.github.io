@@ -1,15 +1,18 @@
 ## Portfolio
 
 ---
+### Publications
+[Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+[Machine Learning and Deep Learning Projects](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[CS23n: Convolutional Neural Networks for Visual Recognition](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
