@@ -8,6 +8,9 @@
 
 [Machine Learning and Deep Learning Projects](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+*Neural Network and Deep Learning
+Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
+this network.
 
 ---
 [CS23n: Convolutional Neural Networks for Visual Recognition](/pdf/sample_presentation.pdf)
