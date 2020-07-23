@@ -7,19 +7,19 @@
 ### Projects
 
 [Machine Learning and Deep Learning Projects](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 *Neural Network and Deep Learning
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
 
 ---
 [CS23n: Convolutional Neural Networks for Visual Recognition](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tic Tac Toe Vs AI](http://example.com/)
+*An implementation of the classic game Tic Tac Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Min-max algorithm was used to determine AI's behavior
+
 
 ---
 
