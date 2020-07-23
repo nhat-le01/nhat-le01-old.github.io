@@ -7,7 +7,7 @@
 ### Projects
 
 [**Machine Learning and Deep Learning Projects**](/sample_page)
-- **Neural Network and Deep Learning***<br>
+- **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
 
@@ -18,7 +18,7 @@ this network.
 
 ---
 [**Tic Tac Toe Vs AI**](http://example.com/)
-<br>An implementation of the classic game Tic Tac Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Min-max algorithm was used to determine AI's behavior
+<br><br>An implementation of the classic game Tic Tac Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Min-max algorithm was used to determine AI's behavior
 
 
 ---
