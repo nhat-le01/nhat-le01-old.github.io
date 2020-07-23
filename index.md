@@ -7,7 +7,7 @@
 ### Projects
 
 **Machine Learning and Deep Learning Projects**<br>
-*Neural Network and Deep Learning<br>
+- **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
 
@@ -24,27 +24,24 @@ this network.
 ---
 
 ### Education
-**8/2018
+- 8/2018 - 5/2021 Bachelor of Scienc in Computer Science, California State University, Long Beach
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
 ### Honors and Awards
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title]
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title]
+
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Title]
+
 
 
 
