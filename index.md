@@ -2,22 +2,22 @@
 
 ---
 ### Publications
-[Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole
+[**Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole**]
 
 ### Projects
 
-[Machine Learning and Deep Learning Projects](/sample_page)
-- Neural Network and Deep Learning<br>
+[**Machine Learning and Deep Learning Projects**](/sample_page)
+- **Neural Network and Deep Learning***<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
 
 ---
-[CS23n: Convolutional Neural Networks for Visual Recognition](/pdf/sample_presentation.pdf)
+[**CS23n: Convolutional Neural Networks for Visual Recognition**](/pdf/sample_presentation.pdf)
 
 
 
 ---
-[Tic Tac Toe Vs AI](http://example.com/)
+[**Tic Tac Toe Vs AI**](http://example.com/)
 <br>An implementation of the classic game Tic Tac Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Min-max algorithm was used to determine AI's behavior
 
 
