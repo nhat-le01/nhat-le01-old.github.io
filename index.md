@@ -17,7 +17,7 @@ this network.
 
 
 ---
-[**Tic Tac Toe Vs AI**]
+**Tic Tac Toe Vs AI**
 <br><br>An implementation of the classic game Tic Tac Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Min-max algorithm was used to determine AI's behavior[[Source code]](google.com)[[Video Demo]](https://www.youtube.com/watch?v=R0m18zlawGU)
 
 
