@@ -2,7 +2,7 @@
 
 ---
 ### Publications
-[- **Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole ?**](https://www.mdpi.com/1424-8220/20/14/4001)
+- [**Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole ?**](https://www.mdpi.com/1424-8220/20/14/4001)
 <br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi
 
 ### Projects
