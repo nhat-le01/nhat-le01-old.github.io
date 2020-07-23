@@ -6,13 +6,13 @@
 
 ### Projects
 
-[**Machine Learning and Deep Learning Projects**](/sample_page)
+**Machine Learning and Deep Learning Projects**
 - **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
 
 ---
-[**CS23n: Convolutional Neural Networks for Visual Recognition**](/pdf/sample_presentation.pdf)
+**CS23n: Convolutional Neural Networks for Visual Recognition**
 
 
 
