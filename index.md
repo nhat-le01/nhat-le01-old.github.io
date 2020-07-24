@@ -6,7 +6,7 @@
 <br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi [[PDF]](https://www.mdpi.com/1424-8220/20/14/4001)<br>
   - Proposed a novel method to detect the human gait precisely from the raw gait information gathered in insoles. 
   - Developed an ensemble model that uses CNN and RNN in a cooperative and complementary manner to identify users from their gait information with accuray of over 99 %
----
+  
 ## Projects
 
 **Machine Learning and Deep Learning Projects**<br>
