@@ -1,13 +1,13 @@
-## Portfolio
+# Portfolio
 
 ---
-### Publications
+## Publications
 - **Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole ?**
-<br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi [[Pdf]](https://www.mdpi.com/1424-8220/20/14/4001)<br>
+<br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi [[PDF]](https://www.mdpi.com/1424-8220/20/14/4001)<br>
   - Proposed a novel method to detect the human gait precisely from the raw gait information gathered in insoles. 
   - Developed an ensemble model that uses CNN and RNN in a cooperative and complementary manner to identify users from their gait information with accuray of over 99 %
 
-### Projects
+## Projects
 
 **Machine Learning and Deep Learning Projects**<br>
 - **Neural Network and Deep Learning**<br>
@@ -26,14 +26,14 @@ this network.
 
 ---
 
-### Education
+## Education
 - 8/2018 - 5/2021 Bachelor of Scienc in Computer Science, California State University, Long Beach
 
 
 
 ---
 
-### Honors and Awards
+## Honors and Awards
 
 [Project 1 Title]
 
