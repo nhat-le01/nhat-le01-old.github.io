@@ -13,7 +13,8 @@
 - **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.
-
+<br>
+- **Traffic Sign Classification**<br>
 
 **CS23n: Convolutional Neural Networks for Visual Recognition**
 
