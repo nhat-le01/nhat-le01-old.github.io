@@ -32,8 +32,6 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 
-## Honors and Awards
-
 
 
 
