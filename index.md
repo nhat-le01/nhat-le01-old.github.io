@@ -1,14 +1,14 @@
 # Portfolio
-
+---
 
 ## Projects
 
 **Machine Learning and Deep Learning Projects**<br>
 - **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
-this network.<br>
+this network.<br>[[Source code]](google.com)
 - **Traffic Sign Classification**<br>
-Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set
+Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set[[Source code]](google.com)
 
 - **CS231n: Convolutional Neural Networks for Visual Recognition**
 
@@ -21,7 +21,8 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 ## Experiences
-- 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA<br>
+- 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA
+- 06/2019 - 08/2019: Intern, Data Visualization Business Analyst, Westlake Village, Los Angeles, CA
 
 
 ## Education
@@ -31,6 +32,7 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 ## Honors and Awards
+
 
 
 
