@@ -27,6 +27,7 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 ## Education
 - 8/2018 - 5/2021 Bachelor of Science in Computer Science, California State University, Long Beach
+- 3/2015 - 6/2018 an lknsd f
 
 ---
 
