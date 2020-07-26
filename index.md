@@ -1,12 +1,6 @@
 # Portfolio
 
 ---
-## Publications
-- **Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole ?**
-<br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi [[PDF]](https://www.mdpi.com/1424-8220/20/14/4001)<br>
-  - Proposed a novel method to detect the human gait precisely from the raw gait information gathered in insoles. 
-  - Developed an ensemble model that uses CNN and RNN in a cooperative and complementary manner to identify users from their gait information with accuray of over 99 %
-  
 ## Projects
 
 **Machine Learning and Deep Learning Projects**<br>
@@ -26,11 +20,13 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 ---
+## Experiences
+- 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA
+- 06/2019 - 08/2019: Intern- Data Visualization Business Analyst, J.D. Power, Westalake Village, Los Angeles, CA
+---
 
 ## Education
-- 8/2018 - 5/2021 Bachelor of Scienc in Computer Science, California State University, Long Beach
-
-
+- 8/2018 - 5/2021 Bachelor of Science in Computer Science, California State University, Long Beach
 
 ---
 
@@ -45,6 +41,14 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 [Project 3 Title]
+
+---
+## Publications
+- **Can Ensemble Deep Learning Identify People by Their Gait Using Data Collected from Multi-Modal Sensors in Their Insole ?**
+<br>Dr. Jucheol Moon, Nelson Hebert Minaya, **Nhat Anh Le**, Hee-Chan Park, San-II Choi [[PDF]](https://www.mdpi.com/1424-8220/20/14/4001)<br>
+  - Proposed a novel method to detect the human gait precisely from the raw gait information gathered in insoles. 
+  - Developed an ensemble model that uses CNN and RNN in a cooperative and complementary manner to identify users from their gait information with accuray of over 99 %
+
 
 
 
