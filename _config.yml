@@ -6,9 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   My main interests include machine learning, deep learning and their applications. I'm proficient in Python and C++, data visualization with Tableau, Matplotlib and Seaborn. I'm seeking a full-time or internship in software engineering. 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/nl2/">View My LinkedIn Profile</a> 
+  <a href="google.com"> View My Github Page</a>
   
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#theme: jekyll-theme-minimal
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
