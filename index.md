@@ -22,12 +22,12 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 ---
 ## Experiences
 - 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA<br>
-- 6/2019 - 08/2019: Intern- Data Visualization Business Analyst, J.D. Power, Westalake Village, Los Angeles, CA<br>
+- 06/2019 - 08/2019: Intern, Data Visualization Business Analyst, J.D. Power, Westalake Village, Los Angeles, CA<br>
 ---
 
 ## Education
 - 8/2018 - 5/2021 Bachelor of Science in Computer Science, California State University, Long Beach
-- 3/2015 - 6/2018 an lknsd f
+
 
 ---
 
