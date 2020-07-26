@@ -16,7 +16,7 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 **Tic-Tac-Toe vs AI**
-<br><br>An implementation of the classic game Tic-Tac-Toe in which a human player can choose to play with an AI. Using Minimax, I implemented an AI to play Tic-Tac-Toe optimally<br>[[Source code]](google.com)[[Video Demo]](https://www.youtube.com/watch?v=R0m18zlawGU)<br>
+<br><br>An implementation of the classic game Tic-Tac-Toe in which a human player can choose to play with an AI. Using Minimax, I implemented an AI to play Tic-Tac-Toe optimally<br>[[Source code]](google.com)<br>
 ![Alt Text](https://j.gifs.com/WLyYY4.gif)
 
 
