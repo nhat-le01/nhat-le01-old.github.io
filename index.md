@@ -10,7 +10,7 @@ this network.<br>
 - **Traffic Sign Classification**<br>
 Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set
 
-- **CS23n: Convolutional Neural Networks for Visual Recognition**
+- **CS231n: Convolutional Neural Networks for Visual Recognition**
 
 
 
@@ -21,8 +21,8 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 ---
 ## Experiences
-- 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA
-- 06/2019 - 08/2019: Intern- Data Visualization Business Analyst, J.D. Power, Westalake Village, Los Angeles, CA
+- 12/2018 - present: Undergraduate Research Assistant, California State University, Long Beach, CA<br>
+- 06/2019 - 08/2019: Intern- Data Visualization Business Analyst, J.D. Power, Westalake Village, Los Angeles, CA<br>
 ---
 
 ## Education
