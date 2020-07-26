@@ -8,7 +8,7 @@
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.<br>[[Source code]](google.com)
 - **Traffic Sign Classification**<br>
-Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set[[Source code]](google.com)
+Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set<br>[[Source code]](google.com)
 
 - **CS231n: Convolutional Neural Networks for Visual Recognition**
 
@@ -16,7 +16,7 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 **Tic-Tac-Toe vs AI**
-<br><br>An implementation of the classic game Tic-Tac-Toe, a human player can choose to play vs AI, the AI's purpose is not to lose. Using Minimax, implement an AI to play Tic-Tac-Toe optimally[[Source code]](google.com)[[Video Demo]](https://www.youtube.com/watch?v=R0m18zlawGU)<br>
+<br><br>An implementation of the classic game Tic-Tac-Toe in which a human player can choose to play with an AI. Using Minimax, I implemented an AI to play Tic-Tac-Toe optimally<br>[[Source code]](google.com)[[Video Demo]](https://www.youtube.com/watch?v=R0m18zlawGU)<br>
 ![Alt Text](https://j.gifs.com/WLyYY4.gif)
 
 
