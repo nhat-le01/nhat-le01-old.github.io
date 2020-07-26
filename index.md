@@ -56,5 +56,5 @@ Designed a convolutional neural network to classify traffic signs, using TensorF
 
 
 
-<p style="font-size:13px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:20px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
