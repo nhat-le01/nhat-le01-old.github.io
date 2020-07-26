@@ -13,9 +13,10 @@
 - **Neural Network and Deep Learning**<br>
 Implementation logistic regression, deep neural networks from scratch help me understand deeply about 
 this network.<br>
-**Traffic Sign Classification**<br>
+- **Traffic Sign Classification**<br>
+Designed a convolutional neural network to classify traffic signs, using TensorFlow. Performed image pre-processing and validation to prevent overfitting. The model achieved 96% accuracy on the test set
 
-**CS23n: Convolutional Neural Networks for Visual Recognition**
+- **CS23n: Convolutional Neural Networks for Visual Recognition**
 
 
 
